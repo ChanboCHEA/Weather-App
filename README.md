@@ -1,6 +1,3 @@
-# Updated README file
+# Weather-App
 
-Here are the changes from both branches.
-
-- Content from `main`
-- Content from `master`
+The weather app you can find every city
