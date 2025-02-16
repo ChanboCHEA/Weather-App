@@ -1,6 +1,6 @@
 import React from "react";
-import WeatherApp from "./components/weatherApp";
-import "./components/weatherApp.css";
+import WeatherApp from "./components/WeatherApp";
+import "./components/WeatherApp.css";
 
 const App = () => {
   return <WeatherApp />;
